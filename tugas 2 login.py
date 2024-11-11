@@ -24,4 +24,8 @@ def menu_login():
     print("Anda telah memasukkan password yang salah sebanyak 3 kali. Akses ditolak.")
 
 menu_login()
+<<<<<<< HEAD
 print("hello world")
+=======
+print("hello world")
+>>>>>>> 209d4e12f423661cbe844120938cf93dcd72faeb
